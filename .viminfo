@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1587566422,,"wq!"
+|2,0,1587569994,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,20 +25,43 @@
 # Registers:
 
 # File marks:
-'0  29  0  ~/my_first_repo/readme.md
-|4,48,29,0,1587566422,"~/my_first_repo/readme.md"
+'0  4  0  ~/my_first_repo/readme.md
+|4,48,4,0,1587569994,"~/my_first_repo/readme.md"
+'1  4  0  ~/my_first_repo/readme.md
+|4,49,4,0,1587569962,"~/my_first_repo/readme.md"
+'2  29  0  ~/my_first_repo/readme.md
+|4,50,29,0,1587566422,"~/my_first_repo/readme.md"
+'3  29  0  ~/my_first_repo/readme.md
+|4,51,29,0,1587566422,"~/my_first_repo/readme.md"
+'4  29  0  ~/my_first_repo/readme.md
+|4,52,29,0,1587566422,"~/my_first_repo/readme.md"
+'5  29  0  ~/my_first_repo/readme.md
+|4,53,29,0,1587566422,"~/my_first_repo/readme.md"
 
 # Jumplist (newest first):
+-'  4  0  ~/my_first_repo/readme.md
+|4,39,4,0,1587569994,"~/my_first_repo/readme.md"
+-'  4  0  ~/my_first_repo/readme.md
+|4,39,4,0,1587569962,"~/my_first_repo/readme.md"
+-'  29  0  ~/my_first_repo/readme.md
+|4,39,29,0,1587569893,"~/my_first_repo/readme.md"
+-'  29  0  ~/my_first_repo/readme.md
+|4,39,29,0,1587569893,"~/my_first_repo/readme.md"
 -'  29  0  ~/my_first_repo/readme.md
 |4,39,29,0,1587566422,"~/my_first_repo/readme.md"
+-'  1  0  ~/my_first_repo/readme.md
+|4,39,1,0,1587566392,"~/my_first_repo/readme.md"
+-'  1  0  ~/my_first_repo/readme.md
+|4,39,1,0,1587566392,"~/my_first_repo/readme.md"
 -'  1  0  ~/my_first_repo/readme.md
 |4,39,1,0,1587566392,"~/my_first_repo/readme.md"
 
 # History of marks within files (newest to oldest):
 
 > ~/my_first_repo/readme.md
-	*	1587566417	0
-	"	29	0
-	^	29	0
-	.	28	99
+	*	1587569990	0
+	"	4	0
+	^	4	0
+	.	1	1
 	+	28	99
+	+	1	1
